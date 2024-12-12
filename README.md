@@ -1,16 +1,13 @@
-## Hi there 👋
+# Grazi Guimarães 🐚
 
-<!--
-**graziguimas/graziguimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Formada em Análise e Desenvolvimento de Sistemas. Meu primeiro "Hello World" foi em 2020. Apaixonada por design e tecnologia.
+No meu tempo livre costumo escutar músicas, ler, aprender mais sobre photoshop e figma, entender mais sobre a tecnologia e seus milhares
+de conteúdos [(@grazicoding)](https://www.instagram.com/grazicoding/).
 
-Here are some ideas to get you started:
+## Connect with me 🦋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://instagram.com/grazicoding" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/grazielle-guimarães-2634b9229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
