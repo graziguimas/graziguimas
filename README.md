@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=graziguimas&color=ff69b4"><br>
+<img align="right" src="https://komarev.com/ghpvc/?username=graziguimas&color=ff00f6"><br>
 <div align="center">
   <a href="https://github.com/andreinaoliveira">
 
